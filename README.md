@@ -1,4 +1,4 @@
-### Hi, i'm Roman,and I QA Fullstack 👋
+### Hi👋, i'm Roman,and I QA Fullstack 
 
 Projects
 + [GitHub](https://github.com/rvkR13?tab=repositories)
